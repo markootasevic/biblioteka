@@ -2,8 +2,6 @@ package biblioteka;
 
 import java.util.LinkedList;
 
-import javax.management.RuntimeErrorException;
-
 import biblioteka.interfejs.BibliotekaInterfejs;
 
 public class Biblioteka implements BibliotekaInterfejs {
